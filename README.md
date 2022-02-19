@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm Kudzai Mabika, an 2x AWS certified developer in Johannesburg, South Africa 🇯🇵</p>
+<p>I'm Kudzai Mabika, an 2x AWS certified developer in Johannesburg, South Africa</p>
 <br />
 <p align="left">
   <a href="https://github.com/kmabika" target="_blank">
