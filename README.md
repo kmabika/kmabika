@@ -34,11 +34,6 @@ Here are some ideas to get you started:
     height="175"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmabika&layout=compact&count_private=true&show_icons=true&custom_title=Language+Stats&title_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb&hide=html,css,scss,pug,shell,vim+script"
   />
-  <img
-    alt="GitHub Stats"
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=kmabika&count_private=true&show_icons=true&custom_title=Github+Stats&title_color=57b172&icon_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb"
-  />
 </p>
 
 <p align="left">
