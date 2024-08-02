@@ -17,14 +17,4 @@ Here are some ideas to get you started:
 
 <p>I'm Kudzai Mabika</p>
 <br />
-<p align="left">
-  <a href="https://github.com/kmabika" target="_blank">
-    <img
-      alt="Github"
-      height="20"
-      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
-    />
-    <img src="https://komarev.com/ghpvc/?username=kmabika&color=57b172&logo=github" alt="kmabika" />
-  </a>
-</p>
-<br />
+
